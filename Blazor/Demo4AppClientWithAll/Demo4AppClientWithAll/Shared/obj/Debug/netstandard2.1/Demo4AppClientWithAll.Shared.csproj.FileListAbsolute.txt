@@ -1,0 +1,9 @@
+C:\Users\洪有德\source\repos\AccessPWA\Blazor\Demo4AppClientWithAll\Demo4AppClientWithAll\Shared\bin\Debug\netstandard2.1\Demo4AppClientWithAll.Shared.deps.json
+C:\Users\洪有德\source\repos\AccessPWA\Blazor\Demo4AppClientWithAll\Demo4AppClientWithAll\Shared\bin\Debug\netstandard2.1\Demo4AppClientWithAll.Shared.dll
+C:\Users\洪有德\source\repos\AccessPWA\Blazor\Demo4AppClientWithAll\Demo4AppClientWithAll\Shared\bin\Debug\netstandard2.1\Demo4AppClientWithAll.Shared.pdb
+C:\Users\洪有德\source\repos\AccessPWA\Blazor\Demo4AppClientWithAll\Demo4AppClientWithAll\Shared\obj\Debug\netstandard2.1\Demo4AppClientWithAll.Shared.csprojAssemblyReference.cache
+C:\Users\洪有德\source\repos\AccessPWA\Blazor\Demo4AppClientWithAll\Demo4AppClientWithAll\Shared\obj\Debug\netstandard2.1\Demo4AppClientWithAll.Shared.AssemblyInfoInputs.cache
+C:\Users\洪有德\source\repos\AccessPWA\Blazor\Demo4AppClientWithAll\Demo4AppClientWithAll\Shared\obj\Debug\netstandard2.1\Demo4AppClientWithAll.Shared.AssemblyInfo.cs
+C:\Users\洪有德\source\repos\AccessPWA\Blazor\Demo4AppClientWithAll\Demo4AppClientWithAll\Shared\obj\Debug\netstandard2.1\Demo4AppClientWithAll.Shared.csproj.CoreCompileInputs.cache
+C:\Users\洪有德\source\repos\AccessPWA\Blazor\Demo4AppClientWithAll\Demo4AppClientWithAll\Shared\obj\Debug\netstandard2.1\Demo4AppClientWithAll.Shared.dll
+C:\Users\洪有德\source\repos\AccessPWA\Blazor\Demo4AppClientWithAll\Demo4AppClientWithAll\Shared\obj\Debug\netstandard2.1\Demo4AppClientWithAll.Shared.pdb
